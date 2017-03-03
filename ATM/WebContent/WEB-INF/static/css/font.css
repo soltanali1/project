@@ -1,0 +1,15 @@
+@font-face{
+    font-family: yekan;
+    src:url(../fonts/Yekan.eot) format('embedded-opentype'),
+    url(../fonts/Yekan.woff) format('woff'),
+    url(../fonts/Yekan.ttf) format('truetype'),
+    url(../fonts/Yekan.svg) format('svg');
+}
+@font-face{
+    font-family: nastaliq;
+    src:url(../fonts/nastaliq.ttf) format('truetype');
+}
+@font-face{
+    font-family: dinar;
+    src:url(../fonts/mj_dinartwomedium.ttf) format('truetype');
+}
